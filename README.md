@@ -3,7 +3,7 @@ Spring-JPA-Interview-Project
 
 Spring-JPA Sample based interview project
 
-Excersize:
+Exercise:
 
 
 This is a simmple Spring-JPA using Hibernate in HSQL example.  This example uses in-memory HSQL database with a table
