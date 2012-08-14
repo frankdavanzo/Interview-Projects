@@ -13,7 +13,7 @@ that represents a "User".
 1. Add column mapping for "User" that represents creation of the User.
 2. Using JUnit, Demonstrate that when a "User" is persisted, date and time is recorded. 
 3. Be able to debug the JUnit test at any point and inspect objects.
-4, Demonstrate that it builds using both mavena and eclipse.
+4. Demonstrate that it builds using both mavena and eclipse.
 
 
 As a bonus, and as time permits:
